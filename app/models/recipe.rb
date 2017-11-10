@@ -1,2 +1,2 @@
-class Recipes #Placeholder for a model
+class Recipe #Placeholder for a model
 end
