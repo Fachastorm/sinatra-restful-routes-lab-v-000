@@ -1,1 +1,2 @@
-#Placeholder for a model
+class Recipes #Placeholder for a model
+end
